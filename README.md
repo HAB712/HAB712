@@ -45,15 +45,6 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/HAB712" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <!-- <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a> -->
-  <!-- <a href="mailto:your@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a> -->
-</p>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=HAB712&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- 🌟 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
