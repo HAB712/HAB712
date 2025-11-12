@@ -37,7 +37,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAB712&theme=dark&hide_border=false&layout=compact" height="165px"/>
 </p>
 
