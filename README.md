@@ -34,14 +34,6 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE.svg?logo=clickup&logoColor=white"></a>
 
----
-
-### 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAB712&theme=dark&hide_border=false&layout=compact" height="165px"/>
-</p>
-
 
 ---
 
