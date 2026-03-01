@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Full Stack Web Applications (Laravel | .NET | MySQL | MS SQL Server)**  
-- 🌱 I’m learning ** API Optimization**  
+- 🌱 I’m learning **API Optimization**  
 - 💬 Ask me about **Backend Development, Database Design, or REST APIs**  
 - ⚡ Fun fact: *I turn caffeine into clean code ☕*  
 
