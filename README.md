@@ -10,7 +10,7 @@
 - ⚡ Fun fact: *I turn caffeine into clean code ☕*  
 
 ---
-### project: https://radiocab-production-2bc0.up.railway.app/ 
+### Project: https://radiocab-production-2bc0.up.railway.app/ 
 
 ---
 ### 💻 Tech Stack:
