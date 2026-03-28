@@ -10,9 +10,6 @@
 - ⚡ Fun fact: *I turn caffeine into clean code ☕*  
 
 ---
-### Project: https://radiocab-production-2bc0.up.railway.app/ 
-
----
 ### 💻 Tech Stack:
 
 #### 🧩 Languages & Frameworks
